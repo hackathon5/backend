@@ -1,6 +1,5 @@
 [{
   "group": "javascript",
-  "rank": 1,
   "popularity": 97,
   "changeDirection": "up",
   "changePercentage": 23,
@@ -8,19 +7,19 @@
   "rev": "1-d91c609b4a235d4fddf37760ac109f16",
   "subgroups": [{
 	  "name": "angular",
-	  "rank": 1,
+	  "clue": 423,
 	  "popularity": 98,
 	  "changeDirection": "up",
 	  "changePercentage": 53
   },{
 	  "name": "react",
-	  "rank": 2,
+	  "clue": 3425,
 	  "popularity": 93,
 	  "changeDirection": "up",
 	  "changePercentage": 53
   },{
 	  "name": "node",
-	  "rank": 3,
+	  "clue": 3341,
 	  "popularity": 51,
 	  "changeDirection": "up",
 	  "changePercentage": 53
@@ -28,7 +27,6 @@
 },
 {
   "group": "php",
-  "rank": 2,
   "popularity": 38,
   "changeDirection": "down",
   "changePercentage": "21",
@@ -36,19 +34,19 @@
   "rev": "2-d91c609b4a235d4fddf37760ac109f16",
   "subgroups": [{
 	  "name": "symfony",
-	  "rank": 1,
+	  "clue": 1233,
 	  "popularity": 78,
 	  "changeDirection": "up",
 	  "changePercentage": 53
   },{
 	  "name": "zend",
-	  "rank": 2,
+	  "clue": 2653,
 	  "popularity": 98,
 	  "changeDirection": "down",
 	  "changePercentage": 53
   },{
 	  "name": "drupal",
-	  "rank": 3,
+	  "clue": 343,
 	  "popularity": 98,
 	  "changeDirection": "up",
 	  "changePercentage": 53
