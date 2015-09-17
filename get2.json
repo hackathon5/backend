@@ -3,26 +3,24 @@
   "popularity": 97,
   "changeDirection": "up",
   "changePercentage": 23,
-  "id": "06b2a3031de52723f5a0469bf6000042",
-  "rev": "1-d91c609b4a235d4fddf37760ac109f16",
   "subgroups": [{
-	  "name": "angular",
-	  "clue": 423,
-	  "popularity": 98,
-	  "changeDirection": "up",
-	  "changePercentage": 53
+    "name": "angular",
+    "clue": 423,
+    "popularity": 98,
+    "changeDirection": "up",
+    "changePercentage": 53
   },{
-	  "name": "react",
-	  "clue": 3425,
-	  "popularity": 93,
-	  "changeDirection": "up",
-	  "changePercentage": 53
+    "name": "react",
+    "clue": 3425,
+    "popularity": 93,
+    "changeDirection": "up",
+    "changePercentage": 53
   },{
-	  "name": "node",
-	  "clue": 3341,
-	  "popularity": 51,
-	  "changeDirection": "up",
-	  "changePercentage": 53
+    "name": "node",
+    "clue": 3341,
+    "popularity": 51,
+    "changeDirection": "up",
+    "changePercentage": 53
   }]
 },
 {
@@ -30,25 +28,131 @@
   "popularity": 38,
   "changeDirection": "down",
   "changePercentage": "21",
-  "id": "06b2a3031de52723f5a0469bf6000043",
-  "rev": "2-d91c609b4a235d4fddf37760ac109f16",
   "subgroups": [{
-	  "name": "symfony",
-	  "clue": 1233,
-	  "popularity": 78,
-	  "changeDirection": "up",
-	  "changePercentage": 53
+    "name": "symfony",
+    "clue": 1233,
+    "popularity": 78,
+    "changeDirection": "up",
+    "changePercentage": 53
   },{
-	  "name": "zend",
-	  "clue": 2653,
-	  "popularity": 98,
-	  "changeDirection": "down",
-	  "changePercentage": 53
+    "name": "zend",
+    "clue": 2653,
+    "popularity": 98,
+    "changeDirection": "down",
+    "changePercentage": 53
   },{
-	  "name": "drupal",
-	  "clue": 343,
-	  "popularity": 98,
-	  "changeDirection": "up",
-	  "changePercentage": 53
+    "name": "drupal",
+    "clue": 343,
+    "popularity": 98,
+    "changeDirection": "up",
+    "changePercentage": 53
+  }]
+},
+{
+  "group": "java",
+  "popularity": 38,
+  "changeDirection": "down",
+  "changePercentage": "21",
+  "subgroups": [{
+    "name": "spring",
+    "clue": 918,
+    "popularity": 42,
+    "changeDirection": "up",
+    "changePercentage": 30
+  },{
+    "name": "gwt",
+    "clue": 327,
+    "popularity": 33,
+    "changeDirection": "down",
+    "changePercentage": 12
+  },{
+    "name": "struts",
+    "clue": 132,
+    "popularity": 12,
+    "changeDirection": "=",
+    "changePercentage": 0
+  }]
+},
+{
+  "group": "c",
+  "popularity": 38,
+  "changeDirection": "down",
+  "changePercentage": "2",
+  "subgroups": []
+},
+{
+  "group": "c++",
+  "popularity": 67,
+  "changeDirection": "up",
+  "changePercentage": "21",
+  "subgroups": [{
+    "name": "qt",
+    "clue": 987,
+    "popularity": 65,
+    "changeDirection": "up",
+    "changePercentage": 12
+  },{
+    "name": "WxWidgets",
+    "clue": 354,
+    "popularity": 32,
+    "changeDirection": "down",
+    "changePercentage": 9
+  },{
+    "name": "mfc",
+    "clue": 765,
+    "popularity": 43,
+    "changeDirection": "up",
+    "changePercentage": 23
+  }]
+},
+{
+  "group": "c#",
+  "popularity": 45,
+  "changeDirection": "down",
+  "changePercentage": "11",
+  "subgroups": [{
+    "name": "mono",
+    "clue": 1342,
+    "popularity": 55,
+    "changeDirection": "up",
+    "changePercentage": 43
+  },{
+    "name": ".net",
+    "clue": 2342,
+    "popularity": 76,
+    "changeDirection": "=",
+    "changePercentage": 0
+  }]
+},
+{
+  "group": "objective-c",
+  "popularity": 18,
+  "changeDirection": "down",
+  "changePercentage": "81",
+  "subgroups": []
+},
+{
+  "group": "ruby",
+  "popularity": 17,
+  "changeDirection": "up",
+  "changePercentage": "5",
+  "subgroups": [{
+    "name": "ruby on rails",
+    "clue": 543,
+    "popularity": 59,
+    "changeDirection": "=",
+    "changePercentage": 0
+  },{
+    "name": "sinatra",
+    "clue": 645,
+    "popularity": 44,
+    "changeDirection": "up",
+    "changePercentage": 32
+  },{
+    "name": "jekyll",
+    "clue": 343,
+    "popularity": 98,
+    "changeDirection": "up",
+    "changePercentage": 53
   }]
 }]
