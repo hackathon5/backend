@@ -71,7 +71,7 @@
     "changePercentage": 30
   },{
     "name": "gwt",
-    "clue": 1327,
+    "clue": 727,
     "popularity": 33,
     "stars": 0,
     "changeDirection": "down",
@@ -130,7 +130,7 @@
   "stars": 0,
   "subgroups": [{
     "name": "mono",
-    "clue": 1342,
+    "clue": 842,
     "popularity": 55,
     "stars": 0,
     "changeDirection": "up",
