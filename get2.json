@@ -1,4 +1,4 @@
-{
+[{
   "group": "javascript",
   "rank": 1,
   "popularity": 97,
@@ -53,5 +53,4 @@
 	  "changeDirection": "up",
 	  "changePercentage": 53
   }]
-}
-
+}]
