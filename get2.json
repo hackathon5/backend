@@ -13,7 +13,7 @@
     "changePercentage": 53
   },{
     "name": "react",
-    "clue": 3425,
+    "clue": 1225,
     "popularity": 93,
     "stars": 0,
     "changeDirection": "up",
@@ -35,7 +35,7 @@
   "stars": 0,
   "subgroups": [{
     "name": "symfony",
-    "clue": 1233,
+    "clue": 933,
     "popularity": 78,
     "stars": 0,
     "changeDirection": "up",
@@ -49,7 +49,7 @@
     "changePercentage": 53
   },{
     "name": "drupal",
-    "clue": 343,
+    "clue": 1343,
     "popularity": 98,
     "stars": 0,
     "changeDirection": "up",
@@ -64,14 +64,14 @@
   "stars": 0,
   "subgroups": [{
     "name": "spring",
-    "clue": 918,
+    "clue": 2918,
     "popularity": 42,
     "stars": 0,
     "changeDirection": "up",
     "changePercentage": 30
   },{
     "name": "gwt",
-    "clue": 327,
+    "clue": 1327,
     "popularity": 33,
     "stars": 0,
     "changeDirection": "down",
@@ -101,7 +101,7 @@
   "stars": 0,
   "subgroups": [{
     "name": "qt",
-    "clue": 987,
+    "clue": 1987,
     "popularity": 65,
     "stars": 0,
     "changeDirection": "up",
@@ -160,7 +160,7 @@
   "stars": 0,
   "subgroups": [{
     "name": "ruby on rails",
-    "clue": 543,
+    "clue": 1543,
     "popularity": 59,
     "stars": 0,
     "changeDirection": "=",
